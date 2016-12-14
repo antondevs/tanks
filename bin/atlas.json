@@ -1,0 +1,93 @@
+{"frames": [
+
+{
+	"filename": "background.png",
+	"frame": {"x":1,"y":1,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bullet.png",
+	"frame": {"x":1,"y":903,"w":37,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":89},
+	"sourceSize": {"w":38,"h":90},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "gameover.png",
+	"frame": {"x":266,"y":884,"w":588,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":13,"w":588,"h":123},
+	"sourceSize": {"w":632,"h":153},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "monster1.png",
+	"frame": {"x":1,"y":603,"w":263,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":1,"w":263,"h":298},
+	"sourceSize": {"w":280,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "monster2.png",
+	"frame": {"x":543,"y":603,"w":300,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":256},
+	"sourceSize": {"w":300,"h":256},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "monster3.png",
+	"frame": {"x":266,"y":603,"w":275,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":9,"w":275,"h":279},
+	"sourceSize": {"w":285,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "player_blue.png",
+	"frame": {"x":803,"y":1,"w":96,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":207},
+	"sourceSize": {"w":96,"h":207},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "player_green.png",
+	"frame": {"x":901,"y":1,"w":96,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":207},
+	"sourceSize": {"w":96,"h":207},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "player_red.png",
+	"frame": {"x":803,"y":210,"w":96,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":207},
+	"sourceSize": {"w":96,"h":207},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6ee201ac21bfcd62f3239230885d6c6d:fb694a0111172fd7171a3530694cab0d:cbce6b53f0f49e0bf15173c25c41f876$"
+}
+}
